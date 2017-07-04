@@ -1,0 +1,5 @@
+D:\project\LSocket\bin\Debug\LSocket.dll
+D:\project\LSocket\bin\Debug\LSocket.pdb
+D:\project\LSocket\obj\Debug\LSocket.dll
+D:\project\LSocket\obj\Debug\LSocket.pdb
+D:\project\LSocket\obj\Debug\LSocket.csprojResolveAssemblyReference.cache
